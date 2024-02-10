@@ -40,6 +40,7 @@ I am actively seeking opportunities within the IT industry. Open to new challeng
 
 ## Contact 📫
 
-Excited about new opportunities and collaborations! Feel free to reach out to me at [leonardo.potenza@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/leonardo-potenza){{:target="_blank"}}.
+Excited about new opportunities and collaborations! Feel free to reach out to me at [leonardo.potenza@gmail.com](mailto:leonardo.potenza@gmail.com) or connect on <a href="https://www.linkedin.com/in/leonardo-potenza/" target="_blank">LinkedIn</a>.
+
 
 Thanks for visiting my profile! 😊
