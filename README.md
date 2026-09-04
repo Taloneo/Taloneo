@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 
-Hello! I'm Leonardo, an Italo-Argentinian Bachelor of Electronic Arts with expertise at the intersection of art and technology. I specialize in crafting innovative projects that blend programming, mechatronics, and applied electronics. My focus is on building amazing things, from code to physical interfaces and interactive devices.
+Hello! I'm Leonardo, an Bachelor of Electronic Arts with expertise at the intersection of art and technology. I specialize in crafting innovative projects that blend programming, mechatronics, and applied electronics. My focus is on building amazing things, from code to physical interfaces and interactive devices.
 
 ## About Me 🚀
 
