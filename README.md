@@ -26,7 +26,7 @@ Collaborative gastrosonic system connecting three diners through sensed motion a
 
 Research student and artistic producer in MUNTREF's Crossmodal Correspondences project.
 
-Undergraduate studies in Electronic Arts at UNTREF. The degree was not completed.
+Undergraduate studies in Electronic Arts at UNTREF.
 
 Cleaner manager at Chamonix Resort since November 2022.
 
