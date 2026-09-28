@@ -1,46 +1,40 @@
-# Welcome to my GitHub profile 👋
+# Leonardo Potenza / Taloneo
 
-Hello! I'm Leonardo, an Bachelor of Electronic Arts with expertise at the intersection of art and technology. I specialize in crafting innovative projects that blend programming, mechatronics, and applied electronics. My focus is on building amazing things, from code to physical interfaces and interactive devices.
+I build and test systems where software meets the physical world.
 
-## About Me 🚀
+Hardware/software tester and creative technologist. Connected devices, interactive web, sensors, sound and physical interfaces.
 
-- 🔭 Currently exploring the exciting realm of technology and art, blending creativity with engineering.
-- 🌱 My skill set encompasses JavaScript, NODE, MongoDb, Docker, Express, Arduino, Processing, git, HTML, CSS, React.js, Linux, and Windows, among others.
-- 🎨 My most significant experience was as a researcher and artistic creator at MUNTREF Art and Science, collaborating in multidisciplinary teams with engineers, artists, creators, and scientists.
-- 💻 I enjoy creating efficient and elegant solutions for technological and artistic challenges.
+Portfolio: https://leonardopotenza.com/en/systems/
 
-## Featured Projects 🛠️
+## Selected work
 
-### [Quorum Sensing](https://www.researchgate.net/publication/370476208_Quorum_Sensing_y_Vajilla_Emocional)
-"Quorum Sensing" is a gastrosophonic experience for three diners. A soup is served in a special glass tableware (Emotional Tableware), designed as a result of a research project on associations of shapes and materials with musical emotions. The actions of each diner generate vibrations applied to the bodies of the others. I participated in the design, prototyping, construction, and programming of the devices used in the work using Arduino, Node, MQTT, and as the author of the scientific article on which the work was based.
-Presented at Turku University. 
+### [SoulMirror](https://soulmirror.work/)
 
+Generative web artwork built from live advertising inventory, profiling signals and an infinite visual field.
 
-### [Aroma Organ]
+- Case: https://leonardopotenza.com/en/cases/soulmirror/
 
-The Aroma Organ is a device I designed and built, consisting of 12 towers equipped with WiFi-enabled microcontrollers. These microcontrollers are programmed to activate various aromas in response to MIDI input from a keyboard while a musician performs. The entire system is orchestrated using Arduino, the UDP protocol, OSC and JavaScript.
+### [Quorum Sensing](https://github.com/Taloneo/Quorum-Sensing)
 
-I where able to create a unique sensory experience by linking the world of music to the olfactory senses. Each tower releases a distinct fragrance in sync with the melodies produced by the musician. The result is a interesting fusion of sound and scent.
+Collaborative gastrosonic system connecting three diners through sensed motion and bodily vibration. I contributed to the design, prototyping, construction and programming.
 
-#### Some presentation Links
+- ESP8266 · sensors · MQTT · Processing · MIDI
+- Co-author, Revista Vórtex 11(1), 2023: https://periodicos.unespar.edu.br/vortex/article/view/7774
+- Context: https://museos.untref.edu.ar/es/muestras/correspondencias-transmodales/
 
-1. [PERFUME DE YUYO Y ALFALFA](https://sebastiantedesco.com/obra/perfume-de-yuyo-y-alfalfa-2019/)
-2. [SCRIABIN TRANSEMOCIONAL](https://sebastiantedesco.com/obra/scriabin-transemocional-2018/)
+## Background
 
+Research student and artistic producer in MUNTREF's Crossmodal Correspondences project.
 
+Undergraduate studies in Electronic Arts at UNTREF. The degree was not completed.
 
-## Technologies I Master 🚀
+Cleaner manager at Chamonix Resort since November 2022.
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Contact
 
+- Portfolio: https://leonardopotenza.com/en/systems/
+- Email: work@leonardopotenza.com
+- LinkedIn: https://www.linkedin.com/in/leonardo-potenza/
+- ORCID: https://orcid.org/0009-0004-1347-5619
 
-## Seeking Opportunities in IT 🌐
-
-I am actively seeking opportunities within the IT industry. Open to new challenges and collaborations.
-
-## Contact 📫
-
-Excited about new opportunities and collaborations! Feel free to reach out to me at [work@leonardopotenza.com](mailto:work@leonardopotenza.com) or connect on <a href="https://www.linkedin.com/in/leonardo-potenza/" target="_blank">LinkedIn</a>.
-
-
-Thanks for visiting my profile! 😊
+Spanish · professional English · conversational Italian · basic French. Available for remote international work.
